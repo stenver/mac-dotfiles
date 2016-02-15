@@ -8,7 +8,7 @@
 			--KeyToKey--
 			KeyCode::F19,
 
-			KeyCode::A, ModifierFlag::CONTROL_L
+			KeyCode::B, ModifierFlag::CONTROL_L
 		</autogen>
 	</item>
 	<item>
